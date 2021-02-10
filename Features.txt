@@ -1,0 +1,5 @@
+First we have to write variabes with predefined functions!!!
+
+
+setUp()
+keyDown("UPARROW")
